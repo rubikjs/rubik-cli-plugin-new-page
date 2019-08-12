@@ -1,0 +1,32 @@
+{
+  "name": "rubik-cli-plugin-new-page",
+  "version": "0.1.0",
+  "description": "create a new page",
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rubikjs/rubik-cli-plugin-new-page.git"
+  },
+  "keywords": [
+    "rubik-cli",
+    "rubik"
+  ],
+  "author": "Fancy <fancyboynet@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rubikjs/rubik-cli-plugin-new-page/issues"
+  },
+  "homepage": "https://github.com/rubikjs/rubik-cli-plugin-new-page#readme",
+  "dependencies": {
+    "inquirer": "^6.5.1"
+  },
+  "devDependencies": {
+    "rubik-cli": "^0.6.0"
+  }
+}
